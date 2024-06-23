@@ -198,4 +198,4 @@ $roomStatus->update([
     'date' => Carbon::now(),
 ]);
 
-link:UAS_RizkiKurniaHarahap_PRAK.pemogramanwebdasar_D1_RizkiKurniaHarahap_2209010170_ketersedian_kamar (1).txt
+link:UAS_RizkiKurniaHrp_PRAK.pemogramanwebdasar_D1_RizkiKurniaHrp_2209010170_ketersedian_kamar
